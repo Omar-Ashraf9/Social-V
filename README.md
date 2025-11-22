@@ -52,6 +52,7 @@ SocialV delivers a complete social media experience with the following component
 - Spring Data MongoDB (Document DB)  
 - Kafka (Message Queue for async processing)  
 - WebSocket (Real-time communication)
+- Multiple databases (Relational, Document, Graph)
 
 ### **Additional Tools**
 - Swagger (API Documentation)  
