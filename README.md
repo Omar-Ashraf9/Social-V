@@ -1,6 +1,6 @@
 # 📱 SocialV — Microservices-Based Social Media Platform
 *A graduation project for the ITI — Java Enterprise & Web Applications Development Track*  
-Documentation Source: [/mnt/data/SocialV-1-16.pdf]
+[Click to open SocialV.pdf](./SocialV.pdf)
 
 ---
 
@@ -72,9 +72,8 @@ The system follows a **microservices architecture** integrating:
 - Firebase for media storage  
 - WebSockets for real-time messaging and notifications  
 
-### Architecture Diagram  
-*(See project documentation page 12)*  
-![System Architecture](IMG-20251122-WA0017.jpg)
+### Architecture Diagram   
+![System Architecture](./System%20Architecture.jpg)
 
 ---
 
@@ -112,12 +111,6 @@ Potential enhancements:
 - Nada Emam Hanafy Azoz  
 - Nada Mahmoud Mohammed  
 - Omar Ashraf Labib  
-
----
-
-## 📦 Project Files
-- **Full Documentation:** `/mnt/data/SocialV-1-16.pdf`  
-- **Architecture Diagram:** `/mnt/data/IMG-20251122-WA0017.jpg`
 
 ---
 
